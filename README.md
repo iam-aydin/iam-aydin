@@ -1,12 +1,15 @@
-# 💫 About Me:
-🌱 I’m currently learning
-
+# ⚡ About Me:
+🎮 I am the founder and lead developer at **AbirockGames**, where I work alongside my team to craft immersive, "alive" gaming experiences. I am passionate about the intersection of technical programming and artistic game design. I love the challenge of making games that not only function well but feel truly lived-in.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ichbinaydin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aydin-vesali-moghaddam-82a860275/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ichbinaydin) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aydin-vesali-moghaddam-82a860275/) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCtbYPA7MpniJecQp-8Wo4HA) 
+[![Itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?logo=itch.io&logoColor=white)](https://abirockgames.itch.io/)
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iam-aydin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iam-aydin&theme=dark&hide_border=false)<br/>
@@ -16,6 +19,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=iam-aydin&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iam-aydin&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=iam-aydin&icon=5&color=1)](https://visitcount.itsvg)
