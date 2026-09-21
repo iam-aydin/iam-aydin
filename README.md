@@ -1,5 +1,5 @@
 # ⚡ About Me:
-🎮 I am the founder and lead developer at **AbirockGames**, where I work alongside my team to craft immersive, "alive" gaming experiences. I am passionate about the intersection of technical programming and artistic game design. I love the challenge of making games that not only function well but feel truly lived-in.
+🎮 Founder & Lead Dev at AbiRockGames. I build the code underneath and the world around it, focusing on heavy atmosphere, responsive mechanics, and spaces that feel lived-in."
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ichbinaydin) 
