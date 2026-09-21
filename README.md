@@ -8,7 +8,7 @@
 [![Itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?logo=itch.io&logoColor=white)](https://abirockgames.itch.io/)
 
 # 💻 Tech Stack:
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iam-aydin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
