@@ -3,7 +3,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ichbinaydin) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aydin-vesali-moghaddam-82a860275/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aydin-vesali-m-82a860275) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCtbYPA7MpniJecQp-8Wo4HA) 
 [![Itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?logo=itch.io&logoColor=white)](https://abirockgames.itch.io/)
 
