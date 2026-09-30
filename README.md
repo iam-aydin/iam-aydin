@@ -1,19 +1,35 @@
-# ⚡ About Me:
-🎮 Founder & Lead Dev at AbiRockGames. I build the code underneath and the world around it, focusing on heavy atmosphere, responsive mechanics, and spaces that feel lived-in."
+<p align="center">
+  <a href="https://github.com/iam-aydin"><img src="./Assets/SVG/header.svg" width="100%" alt="Hi there, I am Aydin"></a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ichbinaydin) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aydin-vesali-m-82a860275) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCtbYPA7MpniJecQp-8Wo4HA) 
-[![Itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?logo=itch.io&logoColor=white)](https://abirockgames.itch.io/)
+<div align="center">
+  <nobr>
+    <a href="https://abirockgames.itch.io/"><img src="./Assets/SVG/card-EK-1.svg" width="23.935%" alt="Empty Knock"></a><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="1.42%" /><!--
+--><a href="https://abirockgames.itch.io/"><img src="./Assets/SVG/card-EK-3.svg" width="23.935%" alt="Empty Knock"></a><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="1.42%" /><!--
+--><a href="https://abirockgames.itch.io/"><img src="./Assets/SVG/card-EK-4.svg" width="23.935%" alt="Empty Knock"></a><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="1.42%" /><!--
+--><a href="https://abirockgames.itch.io/"><img src="./Assets/SVG/card-EK-0.svg" width="23.935%" alt="Empty Knock"></a>
+  </nobr>
+</div>
 
-# 💻 Tech Stack:
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
+> ### Empty Knock
+> Founder of **AbirockGames**, currently developing **Empty Knock** in **Unreal Engine 5**.
+>
+> Built with raw native performance in mind—focusing on actual optimization rather than using upscaling and frame generation as a crutch (though both will still be options in the settings).
+>
+> When standard tools aren't enough, I build my own. That led to **Game Asset Manager**—a custom desktop app built in TypeScript and React to organize and preview 3D models, textures, audio files, videos, images, and text files all in one place.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iam-aydin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iam-aydin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-aydin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://abirockgames.itch.io/"><img src="./Assets/SVG/card-GAM.svg" width="30%" alt="Game Asset Manager"></a>
+  <br>
+  <sub>Game Asset Manager · the tool I built for my own pipeline</sub>
+</p>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://www.youtube.com/@abirockgames"><img src="./Assets/PNG/youtube.png" height="34" alt="YouTube"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://abirockgames.itch.io/"><img src="./Assets/PNG/itchio.png" height="34" alt="itch.io"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ichbinaydin"><img src="./Assets/PNG/instagram.png" height="34" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aydin-vesali-m-82a860275"><img src="./Assets/PNG/linkedin.png" height="34" alt="LinkedIn"></a>
+</p>
