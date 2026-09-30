@@ -14,12 +14,11 @@
   </nobr>
 </div>
 
-> ### Empty Knock
-> Founder of **AbirockGames**, currently developing **Empty Knock** in **Unreal Engine 5**.
+ ### Empty Knock
+> A Cult Horror Game, Set in Pacific Northwest with Realistic Visuals
+> Built with raw native performance in mind - focusing on actual optimization rather than using upscaling and frame generation as a crutch (though both will still be options in the settings).
 >
-> Built with raw native performance in mind—focusing on actual optimization rather than using upscaling and frame generation as a crutch (though both will still be options in the settings).
->
-> When standard tools aren't enough, I build my own. That led to **Game Asset Manager**—a custom desktop app built in TypeScript and React to organize and preview 3D models, textures, audio files, videos, images, and text files all in one place.
+> When standard tools aren't enough, I build my own. That led to **Game Asset Manager** - a custom desktop app built in TypeScript and React to organize and preview 3D models, textures, audio files, videos, images, and text files all in one place.
 
 <p align="center">
   <a href="https://abirockgames.itch.io/"><img src="./Assets/SVG/card-GAM.svg" width="30%" alt="Game Asset Manager"></a>
